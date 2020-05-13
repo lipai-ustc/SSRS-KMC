@@ -10,5 +10,5 @@ Copyright (C) 2020-2026 Pai Li (lipai@mail.ustc.edu.cn)
 make
 
 # Usage
-./teaks.x-1.0.0-ifort infile
+./teaks.x-1.0.0-ifort infile  
 Examples can be found in folders: C-C2, concentration, H-MFA, H-no_MFA
