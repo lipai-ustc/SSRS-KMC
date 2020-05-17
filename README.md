@@ -12,3 +12,5 @@ make
 # Usage
 ./teaks.x-1.0.0-ifort infile  
 Examples can be found in folders: C-C2, concentration, H-MFA, H-no_MFA
+
+# Manual and an academic article giving details on algorithm is under preparation
